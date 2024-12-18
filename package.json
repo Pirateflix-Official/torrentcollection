@@ -1,0 +1,19 @@
+
+{
+  "name": "torrentcollection2",
+  "version": "0.0.8",
+  "description": "TorrentCollection for pirateflix",
+  "repository": {
+    "type": "git",
+    "url": "https://pirateflix.app  },
+  "bugs": {
+   "url": "https://pirateflix.app },
+  "contributors": {
+    "name": "pirateflix"
+},
+  "dependencies": {
+    "thepiratebay": "1.4.7",
+    "torrentapi-wrapper2": "0.0.3",
+    "xtorrent": "1.0.0"
+  }
+}
